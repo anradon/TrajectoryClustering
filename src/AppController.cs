@@ -13,7 +13,7 @@ namespace MDWConsole
             Console.WriteLine("Enter your choice:");
             Console.WriteLine("1 = Cleaning");
             Console.WriteLine("2 = Store Tracks");
-            Console.WriteLine("3 = Mine Patterns");
+            Console.WriteLine("3 = Mine Patterns"); //Will work for Mine Patterns option. Code for rest of the options are not included
             Console.WriteLine("4 = Anomaly Detection");
             Console.WriteLine("5 = Test Input Track Writing");
             string input = Console.ReadLine();
